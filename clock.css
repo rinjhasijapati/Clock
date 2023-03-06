@@ -1,0 +1,12 @@
+body{
+    background: linear-gradient(#2b5876 ,#4e4376);
+}
+
+#myLabel{
+    font-size: 90px;
+    color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+    position: relative;
+    top: 250px;
+    left: 520px;
+}
